@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://JSWatch" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="BXCkV3bQZS.JSWatch" package="BXCkV3bQZS" required_version="2.3.1"/>
+    <author>PetteriM1</author>
+    <tizen:category name="http://tizen.org/category/wearable_clock"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.jpg"/>
+    <name>JSWatch</name>
+    <tizen:profile name="wearable"/>
+    <tizen:setting background-support="disable" encryption="disable" hwkey-event="disable"/>
+</widget>
